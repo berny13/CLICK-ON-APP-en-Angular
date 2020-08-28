@@ -1,0 +1,9 @@
+<app-blue [title]= "blueTitle" (clickEvt)= "onBlueClick($event)"></app-blue>
+<app-green [title]= "greenTitle" (clickEvt)= "onGreenClick($event)"></app-green>
+<app-red [title]= "redTitle" (clickEvt)= "onRedClick($event)"></app-red>
+
+<p> blue: {{ blueClicks }}</p>
+<p> green: {{ greenClicks }}</p>
+<p> red: {{ redClicks }}</p>
+
+<button (click)="reset()">RESET</button>
