@@ -13,4 +13,4 @@
 
 > **Prototipo Back-End y Front-End**
 
-![mockup](./rama2/HelloWorld/click.jpg)
+![mockup](./blob/rama2/HelloWorld/click.jpg)
