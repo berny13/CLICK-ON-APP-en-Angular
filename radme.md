@@ -13,4 +13,4 @@
 
 > **Prototipo Back-End y Front-End**
 
-![mockup](./blob/rama2/HelloWorld/click.jpg)
+![mockup](./https://github.com/berny13/CLICK-ON-APP-en-Angular/blob/rama2/HelloWorld/click.jp)
