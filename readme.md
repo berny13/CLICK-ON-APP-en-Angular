@@ -13,4 +13,4 @@
 
 > **Prototipo Back-End y Front-End**
 
-![mockup](./master/HelloWorld/click.jpg)
+![mockup](./master/click.jpgg)
