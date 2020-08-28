@@ -13,4 +13,4 @@
 
 > **Prototipo Back-End y Front-End**
 
-![mockup](./HelloWorld/click.jp)
+![mockup](./master/HelloWorld/click.jpg)
