@@ -13,4 +13,4 @@
 
 > **Prototipo Back-End y Front-End**
 
-![mockup](./click.jpg)
+![mockup](./click1.jpg)
